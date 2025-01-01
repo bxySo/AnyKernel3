@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=Android kernel by bxySo
+kernel.string=
 do.devicecheck=1
 do.modules=0
 do.systemless=1
